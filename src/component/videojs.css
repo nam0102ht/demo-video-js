@@ -1,0 +1,13 @@
+.demo-wrapper-video{
+	height: 100%;
+	width: 100%;
+}
+.vjs-big-play-button {
+	top: 50%;
+	left: 50%;
+	margin-top: -.81666em;
+	margin-left: -1.5em;
+}
+.vjs-error-display {
+	display: none;
+}
